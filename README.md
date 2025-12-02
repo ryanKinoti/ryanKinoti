@@ -73,19 +73,6 @@ Real estate management platform handling rent statements and payment reconciliat
 **Tech:** Next.js, Prisma, TypeScript, Better-Auth, Capacitor, Ionic-Framework
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanKinoti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanKinoti&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryanKinoti&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 ## 🤝 Let's Connect
 
 I'm always interested in collaborating on interesting projects, discussing tech, or just connecting with fellow developers!
