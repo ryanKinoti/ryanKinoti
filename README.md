@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **Software Developer | Vibe Coder | Machine Learning Enthusiast | Cybersecurity Learner**
+  **Software Developer | Vibe Coder | ML Enthusiast | Cybersecurity Practicioner**
   
   *Building commissioned solutions & exploring the intersection of code, intelligence, creativity and ingenuity*
   
@@ -41,12 +41,12 @@ const ryan = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColoe=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
-![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=for-the-badge)
-![Better%20Auth](https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge)
+![Better%20Auth](https://img.shields.io/badge/Better%20Auth-0EA5E9?style=for-the-badge&logo=better-auth&logoColor=black)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -56,7 +56,7 @@ const ryan = {
 
 ### Development Environment
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
@@ -90,6 +90,7 @@ Real estate management platform handling rent statements and payment reconciliat
 
 I'm always interested in collaborating on interesting projects, discussing tech, or just connecting with fellow developers!
 
+[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.kinoti.kathurima@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryanKinoti)
 
 ---
