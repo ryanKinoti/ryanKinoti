@@ -23,11 +23,6 @@ const ryan = {
     currentFocus: ["Web Development", "ML Recommender Systems", "Cybersecurity"],
     workingOn: ["Laptop Repair Shop System", "Real Estate Management Platform"],
     learning: ["Advanced Security Practices", "Game Development Prep"],
-    setup: {
-        laptop: "Lenovo Legion 5i (RTX 5060)",
-        ides: ["PyCharm", "WebStorm", "PhpStorm", "CLion"],
-        terminal: "PowerShell + Windows Terminal"
-    },
     funFact: "I treat my IDE configurations with the same care as production code"
 };
 ```
